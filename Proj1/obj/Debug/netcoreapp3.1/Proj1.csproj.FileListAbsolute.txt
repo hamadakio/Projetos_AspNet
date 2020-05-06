@@ -678,9 +678,6 @@ E:\ProjetosWeb\Projetos_AspNet\Projetos_AspNet\Proj1\bin\Debug\netcoreapp3.1\tr\
 E:\ProjetosWeb\Projetos_AspNet\Projetos_AspNet\Proj1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
 E:\ProjetosWeb\Projetos_AspNet\Projetos_AspNet\Proj1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
 E:\ProjetosWeb\Projetos_AspNet\Projetos_AspNet\Proj1\obj\Debug\netcoreapp3.1\Proj1.csprojAssemblyReference.cache
-E:\ProjetosWeb\Projetos_AspNet\Projetos_AspNet\Proj1\obj\Debug\netcoreapp3.1\Proj1.csproj.CoreCompileInputs.cache
-E:\ProjetosWeb\Projetos_AspNet\Projetos_AspNet\Proj1\obj\Debug\netcoreapp3.1\Proj1.MvcApplicationPartsAssemblyInfo.cs
-E:\ProjetosWeb\Projetos_AspNet\Projetos_AspNet\Proj1\obj\Debug\netcoreapp3.1\Proj1.MvcApplicationPartsAssemblyInfo.cache
 E:\ProjetosWeb\Projetos_AspNet\Projetos_AspNet\Proj1\obj\Debug\netcoreapp3.1\Proj1.RazorAssemblyInfo.cache
 E:\ProjetosWeb\Projetos_AspNet\Projetos_AspNet\Proj1\obj\Debug\netcoreapp3.1\Proj1.RazorAssemblyInfo.cs
 E:\ProjetosWeb\Projetos_AspNet\Projetos_AspNet\Proj1\obj\Debug\netcoreapp3.1\Proj1.AssemblyInfoInputs.cache
@@ -704,3 +701,7 @@ E:\ProjetosWeb\Projetos_AspNet\Projetos_AspNet\Proj1\obj\Debug\netcoreapp3.1\sta
 E:\ProjetosWeb\Projetos_AspNet\Projetos_AspNet\Proj1\obj\Debug\netcoreapp3.1\Proj1.dll
 E:\ProjetosWeb\Projetos_AspNet\Projetos_AspNet\Proj1\obj\Debug\netcoreapp3.1\Proj1.pdb
 E:\ProjetosWeb\Projetos_AspNet\Projetos_AspNet\Proj1\obj\Debug\netcoreapp3.1\Proj1.genruntimeconfig.cache
+E:\ProjetosWeb\Projetos_AspNet\Projetos_AspNet\Proj1\bin\Debug\netcoreapp3.1\libman.json
+E:\ProjetosWeb\Projetos_AspNet\Projetos_AspNet\Proj1\obj\Debug\netcoreapp3.1\Proj1.csproj.CoreCompileInputs.cache
+E:\ProjetosWeb\Projetos_AspNet\Projetos_AspNet\Proj1\obj\Debug\netcoreapp3.1\Proj1.MvcApplicationPartsAssemblyInfo.cs
+E:\ProjetosWeb\Projetos_AspNet\Projetos_AspNet\Proj1\obj\Debug\netcoreapp3.1\Proj1.MvcApplicationPartsAssemblyInfo.cache

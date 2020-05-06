@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "xkrqeoEj4xUKSg1JAoCgIiAvJRvoHciQ2Qp+bRQhhET4Oxdhn2Th7qizcssd8IkaB04dvPzOonpehz72LbXddA==",
+  "dgSpecHash": "T5RoH41RNbCbjYftum32DxbvP9jFyeM4d7/Q4eGVT3i6O0xxUfxmJZMav0P4sqm4mxQJPw0EwrSLIoUsR9dlaA==",
   "success": true,
   "projectFilePath": "E:\\ProjetosWeb\\Projetos_AspNet\\Projetos_AspNet\\Proj1\\Proj1.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Akio\\.nuget\\packages\\buildbundlerminifier\\3.2.447\\buildbundlerminifier.3.2.447.nupkg.sha512",
     "C:\\Users\\Akio\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\3.1.3\\microsoft.aspnetcore.mvc.razor.extensions.3.1.3.nupkg.sha512",
     "C:\\Users\\Akio\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.runtimecompilation\\3.1.3\\microsoft.aspnetcore.mvc.razor.runtimecompilation.3.1.3.nupkg.sha512",
     "C:\\Users\\Akio\\.nuget\\packages\\microsoft.aspnetcore.razor.language\\3.1.3\\microsoft.aspnetcore.razor.language.3.1.3.nupkg.sha512",
@@ -13,12 +14,21 @@
     "C:\\Users\\Akio\\.nuget\\packages\\microsoft.codeanalysis.razor\\3.1.3\\microsoft.codeanalysis.razor.3.1.3.nupkg.sha512",
     "C:\\Users\\Akio\\.nuget\\packages\\microsoft.extensions.dependencymodel\\3.1.3\\microsoft.extensions.dependencymodel.3.1.3.nupkg.sha512",
     "C:\\Users\\Akio\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.2\\microsoft.netcore.platforms.2.1.2.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\Akio\\.nuget\\packages\\microsoft.web.librarymanager.build\\2.1.76\\microsoft.web.librarymanager.build.2.1.76.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.collections.immutable\\1.5.0\\system.collections.immutable.1.5.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.io\\4.3.0\\system.io.4.3.0.nupkg.sha512",
     "C:\\Users\\Akio\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.reflection\\4.3.0\\system.reflection.4.3.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.reflection.primitives\\4.3.0\\system.reflection.primitives.4.3.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
     "C:\\Users\\Akio\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\Akio\\.nuget\\packages\\system.runtime.loader\\4.3.0\\system.runtime.loader.4.3.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
     "C:\\Users\\Akio\\.nuget\\packages\\system.text.encoding.codepages\\4.5.1\\system.text.encoding.codepages.4.5.1.nupkg.sha512",
     "C:\\Users\\Akio\\.nuget\\packages\\system.text.json\\4.7.1\\system.text.json.4.7.1.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512",
     "C:\\Users\\Akio\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.3\\system.threading.tasks.extensions.4.5.3.nupkg.sha512"
   ],
   "logs": []
